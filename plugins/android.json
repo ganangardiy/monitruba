@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "phonegap-nfc": {
+            "PACKAGE_NAME": "com.megster.nfc.reader.ionic"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.megster.nfc.reader.ionic"
+        }
+    },
+    "dependent_plugins": {}
+}
